@@ -42,7 +42,7 @@ strong {
     position: relative;
     background-color: rgb(86, 86, 86);
     border: 3px solid rgb(109, 110, 110);
-    border-radius: 5%;
+    border-radius: 10px;
     width: 300px;
     height: 60px;
     gap: 10px;
@@ -53,7 +53,7 @@ strong {
     content: "";
     position: absolute;
     width: 20px;
-    height: 20px;
+    height: 25px;
     border-radius: 50%;
     border-right: 3px solid rgb(109, 110, 110);
     background-color: rgb(86, 86, 86);
@@ -67,7 +67,7 @@ strong {
         height: 12px;
         border-radius: 50%;
         background-color: rgb(109, 110, 110);
-        bottom: 4.8px;
+        bottom: 7px;
         right: 3px;
     }
 
@@ -91,9 +91,9 @@ strong {
     position: relative;
     background-color: rgb(86, 86, 86);
     border: 3px solid rgb(109, 110, 110);
-    border-top-right-radius: 5%;
-    border-bottom-left-radius: 5%;
-    border-bottom-right-radius: 5%;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
     width: 300px;
     height: 100px;
     gap: 10px;
@@ -103,7 +103,7 @@ strong {
     content: "";
     position: absolute;
     width: 20px;
-    height: 20px;
+    height: 25px;
     border-radius: 50%;
     border-left: 3px solid rgb(109, 110, 110);
     background-color: rgb(86, 86, 86);
@@ -117,7 +117,7 @@ strong {
         height: 12px;
         border-radius: 50%;
         background-color: rgb(109, 110, 110);
-        bottom: 4.8px;
+        bottom: 7px;
         left: 3px;
     }
 
@@ -143,10 +143,10 @@ strong {
     border-top: 3px solid rgb(109, 110, 110);
     border-right: 3px solid rgb(109, 110, 110);
     background-color: rgb(86, 86, 86);
-    border-top-left-radius: 5%;
-    border-top-right-radius: 5%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
     top: -22px;
-    left: -2px;
+    left: -3px;
 }
 /* Rules for using icons as black on a light background. */
 .material-icons.md-green {
