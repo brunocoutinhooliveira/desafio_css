@@ -41,7 +41,7 @@ strong {
     align-items: center;
     position: relative;
     background-color: rgb(86, 86, 86);
-    border: 3px solid rgb(109, 110, 110);
+    border: 1px solid rgb(109, 110, 110);
     border-radius: 10px;
     width: 300px;
     height: 60px;
@@ -90,7 +90,7 @@ strong {
     align-items: center;
     position: relative;
     background-color: rgb(86, 86, 86);
-    border: 3px solid rgb(109, 110, 110);
+    border: 1px solid rgb(109, 110, 110);
     border-top-right-radius: 10px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -105,7 +105,7 @@ strong {
     width: 20px;
     height: 25px;
     border-radius: 50%;
-    border-left: 3px solid rgb(109, 110, 110);
+    border-left: 1px solid rgb(109, 110, 110);
     background-color: rgb(86, 86, 86);
     left: -12px;
 
@@ -139,14 +139,14 @@ strong {
     position: absolute;
     width: 210px;
     height: 20px;
-    border-left: 3px solid rgb(109, 110, 110);
-    border-top: 3px solid rgb(109, 110, 110);
-    border-right: 3px solid rgb(109, 110, 110);
+    border-left: 1px solid rgb(109, 110, 110);
+    border-top: 1px solid rgb(109, 110, 110);
+    border-right: 1px solid rgb(109, 110, 110);
     background-color: rgb(86, 86, 86);
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    top: -22px;
-    left: -3px;
+    top: -21px;
+    left: -1px;
 }
 /* Rules for using icons as black on a light background. */
 .material-icons.md-green {
